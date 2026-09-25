@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/jwt",
   "title": "Jwt",
   "description": "JWT decoder MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/jwt",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-jwt",
