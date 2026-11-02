@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jwt",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "JWT decoder MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "jwt",
     "gatewaySlug": "jwt",
-    "sourceHash": "v1-40f8cb1acedbf13ab3a5db44ef44a95ad5008e19c2260dc0613604f0c411207f",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-c09ad28e4f3acc11a69b88243771a95a2f8fee3b612f6b1705e8a65dc7108ed6",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
